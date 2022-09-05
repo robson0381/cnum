@@ -7,10 +7,9 @@ function e(x)
     termo = termo * (x/i)
     soma = soma + termo
     i = i + 1
-
   end
   return [soma i]
-end
+  end
 
 y=e(1)
 println(y)
