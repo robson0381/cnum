@@ -1,3 +1,4 @@
+using System
 using .MathConstants:e
 
 function bisection(a,b,f,error)
